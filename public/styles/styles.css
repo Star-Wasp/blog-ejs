@@ -1,0 +1,10 @@
+body {
+    background-size: cover;
+    background-image: url("../images/bg.jpg");
+}
+
+.font {
+    font-family: "Tagesschrift", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
